@@ -1,4 +1,4 @@
-PHP Developer at Infocraft Consultoria e Iformática.
+PHP Developer at Infocraft Consultoria e Informática.
 
 📍 Salvador/BA
 
