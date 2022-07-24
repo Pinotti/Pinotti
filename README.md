@@ -1,6 +1,4 @@
-Tecnólogo em Sistemas para Internet pela Universidade do Sul de Santa Catarina.
-
-Desenvolvedor PHP na Infocraft Consultoria e Informática.
+PHP Developer at Infocraft Consultoria e Iformática.
 
 📍 Salvador/BA
 
