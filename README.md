@@ -1,4 +1,5 @@
-PHP Developer at Infocraft Consultoria e Informática.
+### PHP Developer
+I'm currently workin on Infocraft Consultoria e Informática.
 
 📍 Salvador/BA
 
