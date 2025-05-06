@@ -2,7 +2,7 @@
 
 **`Backend Software Developer`**
 
-Experienced developer with a career that began in 2015, working with Java and later transitioning to PHP, using frameworks such as Laravel and Scriptcase. 
+Backend developer with a career that began in 2015, working with Java and later transitioning to PHP, using frameworks such as Laravel and Scriptcase. 
 
 Over the years, I have built expertise in developing systems for banks, insurance companies, and major European corporations, as well as contributing significantly to the creation of a public and private educational management platform. 
 
