@@ -30,6 +30,7 @@ Additionally, I have led small squads, driving the development of new features a
 
 ##
 
+
 <div> 
     <a href = "mailto:anderson.pinotti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/andersonpinotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
