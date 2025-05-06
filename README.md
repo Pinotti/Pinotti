@@ -12,7 +12,7 @@ Additionally, I have led small squads, driving the development of new features a
 
 ---
 
-### Linguagens e Tecnologias
+### Stacks
 
 <img 
     align="left" 
