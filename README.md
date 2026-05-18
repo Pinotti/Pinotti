@@ -1,14 +1,21 @@
 # Anderson Pinotti
 
-**`Backend Software Developer`**
+**`Backend Software Developer | Backend Software Engineer`**
 
-Backend developer with a career that began in 2015, working with Java and later transitioning to PHP, using frameworks such as Laravel and Scriptcase. 
+Senior Backend Engineer with extensive experience in PHP and the Laravel ecosystem, focused on
+building scalable and mission-critical enterprise systems for public and private sectors.
 
-Over the years, I have built expertise in developing systems for banks, insurance companies, and major European corporations, as well as contributing significantly to the creation of a public and private educational management platform. 
+Experienced in API development, system integrations, maintenance of mission-critical applications,
+and relational database modeling, working with technologies such as PostgreSQL, MySQL, Oracle
+Database, and Microsoft SQL Server.
 
-I have extensive experience with databases such as MySQL, PostgreSQL, and Oracle, as well as version control systems like Subversion and Git. 
+Skilled in the full software development lifecycle, from requirements analysis and architecture
+design to implementation, testing, and deployment, always focused on performance, scalability, and
+delivery quality.
 
-Additionally, I have led small squads, driving the development of new features and fostering innovative solutions..
+Collaborative, proactive, and problem-solving oriented professional, with experience working in
+both national and international remote teams, as well as providing technical guidance and
+mentorship to junior developers.
 
 ---
 
@@ -26,6 +33,9 @@ Additionally, I have led small squads, driving the development of new features a
     <img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
     <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Oracle Database" title="Oracle Database" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+    <img align="center" alt="SQL Server" title="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+    <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 
 <br>
@@ -35,5 +45,5 @@ Additionally, I have led small squads, driving the development of new features a
 
 <div> 
     <a href = "mailto:anderson.pinotti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/andersonpinotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/alpinotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
