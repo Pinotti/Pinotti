@@ -2,20 +2,41 @@
 
 **`Backend Software Developer | Backend Software Engineer`**
 
-Senior Backend Engineer with extensive experience in PHP and the Laravel ecosystem, focused on
-building scalable and mission-critical enterprise systems for public and private sectors.
+11+ years of experience in Software Development, including 8+ years specializing in PHP, Laravel, REST APIs, relational databases, and systems integration.
 
-Experienced in API development, system integrations, maintenance of mission-critical applications,
-and relational database modeling, working with technologies such as PostgreSQL, MySQL, Oracle
-Database, and Microsoft SQL Server.
+Experienced in public and private sector applications, legacy system modernization, backend architecture, and technical leadership.
 
-Skilled in the full software development lifecycle, from requirements analysis and architecture
-design to implementation, testing, and deployment, always focused on performance, scalability, and
-delivery quality.
+My career journey in one flow:
 
-Collaborative, proactive, and problem-solving oriented professional, with experience working in
-both national and international remote teams, as well as providing technical guidance and
-mentorship to junior developers.
+**Software Development → PHP & Laravel → Backend Engineering → Software Architecture & Technical Leadership**
+
+I connect backend systems, data, and integrations to turn complex environments into reliable, scalable, and maintainable applications.
+
+✔ At **Minsait**, I develop and maintain complex enterprise applications, contributing to requirements analysis, architecture, implementation, testing, and deployment using PHP, Laravel, and relational databases.
+
+✔ Built REST APIs connecting legacy systems with modern applications, using PostgreSQL, MySQL, Oracle, and SQL Server while ensuring business continuity.
+
+✔ At **Infocraft**, I led developers in building an online learning module for public and private schools and maintained APIs serving web and mobile applications.
+
+✔ Developed Delphi-Laravel integrations, student enrollment features, and reusable internal libraries to reduce code duplication and improve maintainability.
+
+✔ Mentored junior developers and interns, promoting Clean Code, PSR standards, and engineering best practices across distributed teams.
+
+**How do I deliver results?**
+
+✔ **Core expertise:** PHP, Laravel, REST APIs, PostgreSQL, MySQL, SQL, systems integration, data modeling, Git, Docker, and backend architecture.
+
+✔ **Additional experience:** Oracle Database, SQL Server, Scriptcase, legacy modernization, Delphi integration, Clean Code, PSR, Linux, and Unix.
+
+✔ **Expanding expertise:** PHPUnit/Pest, Redis, queues, caching, CI/CD, AWS, observability, and microservices.
+
+I hold a degree in Internet Systems Technology, with experience across enterprise software, public-sector platforms, education technology, remote environments, and international team collaboration.
+
+**What defines me:** PHP • Laravel • Software Architecture • Technical Leadership
+
+Looking for a Senior Backend Engineer who combines architecture, systems integration, and hands-on experience with complex applications? Let's connect.
+
+**Senior Backend Software Engineer | Senior PHP Developer | Senior Laravel Developer | Software Engineer**
 
 ---
 
